@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def print_hello(num:int):
     """
     Print hello
